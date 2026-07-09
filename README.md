@@ -17,6 +17,7 @@ This is for leet code questions
 | [0042-trapping-rain-water](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +60,8 @@ This is for leet code questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
