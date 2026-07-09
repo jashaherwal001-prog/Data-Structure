@@ -16,6 +16,7 @@ This is for leet code questions
 | [0018-4sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
