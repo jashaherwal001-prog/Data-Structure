@@ -19,6 +19,7 @@ This is for leet code questions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0875-koko-eating-bananas) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -34,6 +35,7 @@ This is for leet code questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0875-koko-eating-bananas) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -63,6 +65,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +78,12 @@ This is for leet code questions
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
