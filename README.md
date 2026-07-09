@@ -8,6 +8,7 @@ This is for leet code questions
 | ------- |
 | [0007-reverse-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0367-valid-perfect-square) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2119-a-number-after-a-double-reversal) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0367-valid-perfect-square) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
