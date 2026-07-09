@@ -24,9 +24,14 @@ This is for leet code questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
