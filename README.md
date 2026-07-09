@@ -7,6 +7,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0367-valid-perfect-square) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2119-a-number-after-a-double-reversal) |
@@ -37,6 +38,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
