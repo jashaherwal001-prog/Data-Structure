@@ -7,6 +7,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0367-valid-perfect-square) |
@@ -104,4 +105,8 @@ This is for leet code questions
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
