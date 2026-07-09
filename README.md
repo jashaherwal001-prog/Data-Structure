@@ -17,6 +17,7 @@ This is for leet code questions
 | [0015-3sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -38,6 +39,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
