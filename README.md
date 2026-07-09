@@ -22,6 +22,7 @@ This is for leet code questions
 | [0410-split-array-largest-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1539-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -39,6 +40,7 @@ This is for leet code questions
 | [0410-split-array-largest-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
