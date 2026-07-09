@@ -16,6 +16,7 @@ This is for leet code questions
 | [0015-3sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0042-trapping-rain-water) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0875-koko-eating-bananas) |
@@ -29,6 +30,7 @@ This is for leet code questions
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0367-valid-perfect-square) |
