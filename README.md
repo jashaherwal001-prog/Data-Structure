@@ -13,6 +13,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -40,4 +42,5 @@ This is for leet code questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
