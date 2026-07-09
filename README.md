@@ -17,6 +17,7 @@ This is for leet code questions
 | [0018-4sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0042-trapping-rain-water) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
