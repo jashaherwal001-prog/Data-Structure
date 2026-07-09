@@ -12,6 +12,7 @@ This is for leet code questions
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -29,9 +30,14 @@ This is for leet code questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0190-reverse-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
