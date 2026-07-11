@@ -14,6 +14,7 @@ This is for leet code questions
 | [0292-nim-game](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0367-valid-perfect-square) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2119-a-number-after-a-double-reversal) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ This is for leet code questions
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1539-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -73,6 +75,7 @@ This is for leet code questions
 | [0015-3sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +108,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0410-split-array-largest-sum) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Prefix Sum
 |  |
 | ------- |
