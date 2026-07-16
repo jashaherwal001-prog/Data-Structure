@@ -38,6 +38,7 @@ This is for leet code questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1539-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2226-maximum-candies-allocated-to-k-children) |
