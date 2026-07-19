@@ -7,6 +7,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0172-factorial-trailing-zeroes) |
@@ -24,6 +25,7 @@ This is for leet code questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -134,6 +136,7 @@ This is for leet code questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
