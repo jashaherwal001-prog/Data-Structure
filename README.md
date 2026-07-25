@@ -11,6 +11,7 @@ This is for leet code questions
 | [0050-powx-n](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0367-valid-perfect-square) |
@@ -76,6 +77,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@ This is for leet code questions
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0231-power-of-two) |
 ## Brainteaser
 |  |
 | ------- |
