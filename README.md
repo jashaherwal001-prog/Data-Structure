@@ -43,6 +43,7 @@ This is for leet code questions
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -146,6 +147,7 @@ This is for leet code questions
 | [0054-spiral-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jashaherwal001-prog/Data-Structure/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
